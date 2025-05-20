@@ -37,18 +37,6 @@ I’m passionate about building intuitive and engaging user interfaces, crafting
 
 ---
 
-## 💼 Projects
-
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| 🎓 Student Management System | A web app for managing student data using Laravel. | Laravel, Bootstrap, MySQL | [View Repo](https://github.com/rahmarohmatinisa/student-management) |
-| ⚡ Electron Study App | A productivity app with Pomodoro timer and game features. | Electron.js, Tailwind, JavaScript | [View Repo](https://github.com/rahmarohmatinisa/electron-study-app) |
-| 🚌 Travel Booking System | Laravel-based booking system for transport and hotels. | Laravel, Blade, Bootstrap | [View Repo](https://github.com/rahmarohmatinisa/travel-booking) |
-
-Feel free to explore more in my pinned repositories!
-
----
-
 ## 🏆 Achievements
 
 - 🎓 Graduated from SMK Negeri 1 Ciamis (2025), major in RPL (Software Engineering)
