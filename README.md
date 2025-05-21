@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white"/>
@@ -30,10 +31,10 @@ I’m passionate about building intuitive and engaging user interfaces, crafting
 
 ## 🧰 Skills
 
-| Frontend            | Backend            | Frameworks & Tools       |
-|---------------------|--------------------|---------------------------|
-| HTML, CSS, JS       | PHP, Java          | Laravel, Tailwind, Bootstrap |
-| Responsive Design   | MySQL, MariaDB     | Git, GitHub, Electron.js |
+| Frontend            | Backend                | Frameworks & Tools             |
+|---------------------|------------------------|---------------------------------|
+| HTML, CSS, JS       | PHP, Java, Python      | Laravel, Tailwind, Bootstrap   |
+| Responsive Design   | MySQL, MariaDB         | Git, GitHub, Electron.js       |
 
 ---
 
