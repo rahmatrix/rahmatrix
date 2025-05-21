@@ -51,7 +51,6 @@ I’m passionate about building intuitive and engaging user interfaces, crafting
 <p align="center">
   <a href="mailto:rahmarohmatinisa7@gamil"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/rahmarohmatinisa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://rahmarohmatinisa.dev"><img src="https://img.shields.io/badge/Portfolio-SoftPink?style=flat&logo=about-dot-me&logoColor=white"/></a>
 </p>
 
 ---
